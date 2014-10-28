@@ -1,4 +1,4 @@
 knowledgebase
 =============
 
-Collect the IT related knowledge together
+Collection of the IT related knowledge.
